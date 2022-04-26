@@ -16,7 +16,6 @@ Used ChakraUI and Framer Motion.
 
 Thanks to Takuya Matsuyama.
 
-(Eveerything is in master branch, my bad setting up the repo)
 
 
 
