@@ -8,9 +8,9 @@ import tshirt from '../components/images/copy.jpg'
 
 
 const shop = () => (
-    <Layout title="Posts">
+    <Layout title="Merch">
         <Heading as="h3" fontSize={20} mb={4}>
-          Shop  
+          Merch  
         </Heading>
         <SimpleGrid columns={[1]} gap={12}>
         <Section>
