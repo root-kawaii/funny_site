@@ -1,4 +1,4 @@
-import Logo from './logo'
+
 import NextLink from 'next/link'
 import {
   Container,
@@ -16,8 +16,6 @@ import {
 } from '@chakra-ui/react'
 import { FiAlignJustify } from 'react-icons/fi'
 import { RiAncientGateFill } from "react-icons/ri";
-import {useColorMode} from '@chakra-ui/react'
-import { SunIcon, MoonIcon } from '@chakra-ui/icons'
 import ThemeToggleButton from './theme-toggle-button';
 
 
@@ -61,7 +59,8 @@ const Navbar = props => {
       >
           <Flex align="center" mr={5}>
               <Heading as="h1" size="lg" letterSpacing={'tighter'}>
-                <RiAncientGateFill></RiAncientGateFill>
+                <Link href="/" passHref><RiAncientGateFill></RiAncientGateFill>
+                </Link>
               </Heading>
           </Flex>
           <Stack
@@ -72,6 +71,9 @@ const Navbar = props => {
           flexGrow={1}
           mt={{ base: 4, md: 0 }}
         >
+            <LinkItem href="/" path={path}>
+            Home
+            </LinkItem>
             <LinkItem href="/works" path={path}>
             Works
             </LinkItem>
