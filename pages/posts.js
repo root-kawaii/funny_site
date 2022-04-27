@@ -18,7 +18,7 @@ const Posts = () => (
       <SimpleGrid columns={[1, 1, 2]} gap={12}>
         <Section>
           <WorkGridItem id="java_game" title="Porrate" thumbnail={thumbnailS}>
-            Sesso e sessualita sono troppo fraintese<br></br>la fisica prende per estremo perche dice per assurdo<br></br>
+            Sesso e sessualita sono troppo fraintese<br></br>La fisica prende per estremo perche dice per assurdo<br></br>
             Giappone culturalmente arretrato<br></br>
             Lasagne overrated<br></br>
             Le malattie mentali sono la schizofrenia
