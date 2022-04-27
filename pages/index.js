@@ -7,8 +7,7 @@ import {
 Button} from '@chakra-ui/react'
 
 
-import { SimpleGrid,GridItem } from '@chakra-ui/react'
-import { IoLogoTwitter, IoLogoInstagram, IoLogoGithub, IoLogoLinkedin } from 'react-icons/io5'
+import {IoLogoGithub, IoLogoLinkedin } from 'react-icons/io5'
 import { List,ListItem } from '@chakra-ui/react'
 import Layout from '../components/layouts/article'
 import NextLink from 'next/link'

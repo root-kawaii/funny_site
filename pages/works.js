@@ -16,7 +16,7 @@ const Works = () => {
       <SimpleGrid columns={[1, 1, 2]} gap={12}>
         <Section>
           <WorkGridItem id="java_game" title="Maestri del rinascimento" thumbnail={thumbnailS}>
-            Developed a computer playable implementation of the board game "Maestri del rinascimento" as a project for my Thesis.
+            Developed a computer playable implementation of the board game Maestri del rinascimento as a project for my Thesis.
             Online-play features and Model-Controller-View approach.
             Valued 30/30
           </WorkGridItem>
