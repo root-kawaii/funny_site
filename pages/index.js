@@ -134,7 +134,7 @@ Currently working on {''}
         
         <Box align="center" my={4}>
           <NextLink href="/posts" scroll={false}>
-            <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
+            <Button rightIcon={<ChevronRightIcon />} color={"#000000"}variant='outline'>
               Popular posts
             </Button>
           </NextLink>
