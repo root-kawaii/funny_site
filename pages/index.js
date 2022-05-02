@@ -6,7 +6,7 @@ import {
   chakra,
 Button} from '@chakra-ui/react'
 
-
+import { WorkGridItem } from '../components/grid-item'
 import {IoLogoGithub, IoLogoLinkedin } from 'react-icons/io5'
 import { List,ListItem } from '@chakra-ui/react'
 import Layout from '../components/layouts/article'
@@ -15,6 +15,7 @@ import Image from 'next/image'
 import styled from '@emotion/styled'
 import Section from '../components/section'
 import Image1 from '../components/images/ass5.jpg'
+import nesss from '../components/images/ass9.jpg'
 const ProfileImage = chakra(Image, {
   shouldForwardProp: prop => ['width', 'height', 'src', 'alt'].includes(prop)
 })
@@ -64,13 +65,17 @@ const Home = () => {
             />
           </Box>
       </Box>
+      <Section>
+      <WorkGridItem id="philo"thumbnail={nesss}>
+          </WorkGridItem>
+      </Section>
       <Section delay={0.1}>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
           Work
         </Heading>
         <Paragraph>
         Currently enrolled in Artificial Intelligence at POLIMI.
-Highly motivated Student looking for new opportunities.
+Highly motivated student looking for new opportunities.
 My Hobbies vary from practicing every kind of sport to Literature and Cinema.
 I plan on getting a Degree in Philosophy, in the mean time I study it on my own.
 <br></br>
@@ -96,10 +101,73 @@ Currently working on {''}
         </Heading>
         <BioSection>
         <BioYear>
+          2021
+        </BioYear>
+          On my way to a Master Degree in Artifical Intelligence 
+        </BioSection>
+        <BioSection>
+        <BioYear>
+          2021
+        </BioYear>
+          Bachelor in Computer Science Engineering
+        </BioSection>
+        <BioSection>
+        <BioYear>
+          2018
+        </BioYear>
+          Italian Graduation
+        </BioSection>
+        <BioSection>
+        <BioYear>
+          2017
+        </BioYear>
+          Canadian Graduation with Honors: AP Scholar
+        </BioSection>
+        <BioSection>
+        <BioYear>
           1999
         </BioYear>
-          I was born in Monza in 1999
+          I was born in Monza, Italy
         </BioSection>
+        <Section>
+        <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
+          Interests
+        </Heading>
+        <BioSection>
+        <BioYear>
+          Reading Book:
+        </BioYear>
+        <Link href="https://en.wikipedia.org/wiki/Kafka_on_the_Shore">Kafka on the shore </Link>
+          by Haruki Murakami
+        </BioSection>
+        <BioSection>
+        <BioYear>
+        Reading Manga:
+        </BioYear>
+        <Link href="https://en.wikipedia.org/wiki/Vagabond_(manga)">Vagabond </Link>
+          by Takehiko Inoue
+        </BioSection>
+        <BioSection>
+        <BioYear>
+        Current favorite movie:
+        </BioYear>
+        <Link href="https://www.youtube.com/watch?v=RmIC9pQ80Fk">8 1/2 </Link>
+          by Federico Fellini
+        </BioSection>
+        <BioSection>
+        <BioYear>
+        Listening to:
+        </BioYear>
+        <Link href="https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK">In Rainbows </Link>
+          by Radiohead
+        </BioSection>
+        <BioSection>
+        <BioYear>
+        Working on:
+        </BioYear>
+          JavaScript and Python
+        </BioSection>
+        </Section>
 
       </Section>
       <Section delay={0.3}>
