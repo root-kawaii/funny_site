@@ -29,7 +29,7 @@ const Posts = () => (
       </Heading>    
           <Paragraph>
           This Site was made following the code of Takuya Matsuyama.<br></br>
-          Here are Takuya`&apos;`s repo and site.<br></br>
+          Here are Takuya&apos;s repo and site.<br></br>
       </Paragraph>
       <Link href="https://github.com/craftzdog">Repo<br></br></Link>
       <Link href="https://www.craftz.dog/">Site</Link>

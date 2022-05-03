@@ -62,7 +62,7 @@ We were stuck out in your car<br></br>
 You were rubbing both my hands<br></br>
 Chewing on a candy bar<br></br>
 
-You said ain`&apos;`t this just like the present<br></br>
+You said ain&apos;t this just like the present<br></br>
 To be showing up like this<br></br>
 As a moon waned to crescent<br></br>
         </Paragraph>
