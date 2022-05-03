@@ -3,7 +3,6 @@ import { Heading } from "@chakra-ui/react"
 import { SimpleGrid } from "@chakra-ui/react"
 import { WorkGridItem } from "../components/grid-item"
 import Section from "../components/section"
-import tshirt from '../components/images/copy.jpg'
 
 
 
