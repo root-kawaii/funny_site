@@ -1,16 +1,11 @@
 import {Container, Heading} from '@chakra-ui/react'
 import Layout from '../components/layouts/article'
-import { SimpleGrid } from '@chakra-ui/react'
 import Section from '../components/section'
 import styled from '@emotion/styled'
 import { Link } from '@chakra-ui/react'
 
 const Paragraph = styled.p`
   text-align: justify;
-  text-indent: 1em;
-`
-const ParagraphE = styled.p`
-  text-align: right;
   text-indent: 1em;
 `
 
@@ -34,7 +29,7 @@ const Posts = () => (
       </Heading>    
           <Paragraph>
           This Site was made following the code of Takuya Matsuyama.<br></br>
-          Here are Takuya's repo and site.<br></br>
+          Here are Takuya`&apos;`s repo and site.<br></br>
       </Paragraph>
       <Link href="https://github.com/craftzdog">Repo<br></br></Link>
       <Link href="https://www.craftz.dog/">Site</Link>

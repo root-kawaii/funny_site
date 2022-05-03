@@ -57,14 +57,14 @@ Jorge Luis Borges, Shinto
             4.25.22
           </Heading>
         <Paragraph>
-        "Then the snow started falling<br></br>
+        Then the snow started falling<br></br>
 We were stuck out in your car<br></br>
 You were rubbing both my hands<br></br>
 Chewing on a candy bar<br></br>
 
-You said 'ain't this just like the present<br></br>
-To be showing up like this'<br></br>
-As a moon waned to crescent"<br></br>
+You said ain`&apos;`t this just like the present<br></br>
+To be showing up like this<br></br>
+As a moon waned to crescent<br></br>
         </Paragraph>
         <ParagraphE>
 Bon Iver, Blood Bank
@@ -73,9 +73,9 @@ Bon Iver, Blood Bank
             4.11.22
           </Heading>
         <Paragraph>
-        “The temple bell stops<br></br>
+        The temple bell stops<br></br>
 But the sound keeps coming<br></br>
-out of the flowers” 
+out of the flowers
         </Paragraph>
         <ParagraphE>
         Matsuo Bashō 
