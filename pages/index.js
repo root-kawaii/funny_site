@@ -6,7 +6,7 @@ import {
   chakra,
 Button} from '@chakra-ui/react'
 
-import { WorkGridItem } from '../components/grid-item'
+
 import {IoLogoGithub, IoLogoLinkedin } from 'react-icons/io5'
 import { List,ListItem } from '@chakra-ui/react'
 import Layout from '../components/layouts/article'
@@ -15,10 +15,13 @@ import Image from 'next/image'
 import styled from '@emotion/styled'
 import Section from '../components/section'
 import Image1 from '../components/images/ass5.jpg'
-import nesss from '../components/images/ass9.jpg'
+
+
+
 const ProfileImage = chakra(Image, {
   shouldForwardProp: prop => ['width', 'height', 'src', 'alt'].includes(prop)
 })
+
 
 import { ChevronRightIcon } from '@chakra-ui/icons'
 
@@ -58,17 +61,15 @@ const Home = () => {
           >
             <ProfileImage
               src={Image1}
-              alt="Profile image"
+              alt="Profile"
               borderRadius='full'
               width="100%"
               height="100%"
             />
           </Box>
       </Box>
-      <Section>
-      <WorkGridItem id="philo"thumbnail={nesss}>
-          </WorkGridItem>
-      </Section>
+        <Container align='center'>
+      </Container>
       <Section delay={0.1}>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
           Work

@@ -16,7 +16,7 @@ import thumbnailS from '../components/images/Regge_Matteo-1.jpg'
 
 const cv = () => {
     return(
-    <Layout title="Merch">
+    <Layout title="CV">
         <Heading as="h3" fontSize={20} mb={4}>
           Curriculum Vitae
         </Heading>
