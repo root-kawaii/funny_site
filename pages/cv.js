@@ -3,7 +3,9 @@ import {Heading, SimpleGrid} from '@chakra-ui/react'
 import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
-import thumbnailS from '../components/images/Regge_Matteo-1.jpg'
+import boba from '../components/images/1.png'
+import Image from 'next/image'
+
 
 
 //var data = new Date();
@@ -20,15 +22,8 @@ const cv = () => {
         <Heading as="h3" fontSize={20} mb={4}>
           Curriculum Vitae
         </Heading>
-        <SimpleGrid columns={[1]} gap={12}>
-        <Section>
-          <WorkGridItem id="works" title="Last update October 2021" thumbnail={thumbnailS}>
-          </WorkGridItem>
-        </Section>
-        </SimpleGrid>
-        </Layout>
-    
-
+    <Image src={boba}/>
+    </Layout>
     )
     
 }

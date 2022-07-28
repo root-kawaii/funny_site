@@ -32,8 +32,8 @@ const Works = () => {
           </WorkGridItem>
         </Section>
         <Section>
-        <WorkGridItem id="https://github.com/root-kawaii/drug_repurposing" title="Drug Repurposing" thumbnail={n01}>
-            Drug repurposing project developed by many people at NECSTLab at Polimi.<br></br>
+        <WorkGridItem id="https://github.com/root-kawaii/drug_repurposing" title="Semi-automatic KG" thumbnail={n01}>
+            Semi-automatic KG construction library developed by me for NECSTLab at Polimi.<br></br>
             Followed by Guido Walter Di Donato
           </WorkGridItem>
         </Section>

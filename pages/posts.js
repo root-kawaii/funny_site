@@ -22,6 +22,19 @@ const Posts = () => (
       <SimpleGrid columns={[1]} gap={12}>
         <Section>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
+            06.28.22
+          </Heading>
+        <Paragraph>
+I have indeed started using Arch Linux.<br></br>
+Now I am comparing Gnome to Sway tile manager.<br></br>
+While Sway is obviously way less taxing in terms of memory<br></br>
+while also being faster in terms of shortcuts and everything<br></br>
+Gnome is much more functional and gives way less problems in terms of compatibility.<br></br>
+        </Paragraph>
+        <ParagraphE>
+root-kawaii, Arch
+        </ParagraphE>
+        <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
             5.2.22
           </Heading>
         <Paragraph>

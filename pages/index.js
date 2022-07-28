@@ -82,8 +82,8 @@ I plan on getting a Degree in Philosophy, in the mean time I study it on my own.
 <br></br>
 My area of interest is Artifical Intelligence and more generally the understanding of concepts such as intelligence, conciousness and awareness.
 Currently working on {''}
-        <NextLink href="https://github.com/root-kawaii/drug_repurposing">
-        <Link href="https://github.com/root-kawaii/drug_repurposing">drug-repurposing</Link>
+        <NextLink href="https://github.com/root-kawaii/funny_site">
+        <Link href="https://github.com/root-kawaii/funny_site">funny_site</Link>
         </NextLink>
         </Paragraph>
         <Box align="center" my={4}>
