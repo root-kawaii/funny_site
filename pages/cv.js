@@ -1,5 +1,5 @@
 
-import {Heading, SimpleGrid} from '@chakra-ui/react'
+import Heading from '@chakra-ui/react'
 import Layout from '../components/layouts/article'
 import boba from '../components/images/1.png'
 import Image from 'next/image'
