@@ -1,8 +1,6 @@
 
 import {Heading, SimpleGrid} from '@chakra-ui/react'
 import Layout from '../components/layouts/article'
-import Section from '../components/section'
-import { WorkGridItem } from '../components/grid-item'
 import boba from '../components/images/1.png'
 import Image from 'next/image'
 
