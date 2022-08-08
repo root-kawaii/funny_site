@@ -25,7 +25,7 @@ const Posts = () => (
             08.08.22
           </Heading>
         <Paragraph>
-Written a small telegram bot to learn a bit about telegram-python API's <br></br>
+Written a small telegram bot to learn a bit about telegram-python APIs <br></br>
 You can use it too ! The username is botter_s_bot, try the /news command followed <br></br>
 by the keyword you want to look up.<br></br>
 You can find it on my repo as well.
