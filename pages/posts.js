@@ -25,7 +25,7 @@ const Posts = () => (
             10.24.22
           </Heading>
         <Paragraph>
-        L&apos;altro giorno ho visto mio nonno.<br></br>
+L&apos;altro giorno ho visto mio nonno.<br></br>
 Prima lui.<br></br>
 Poi la sua ombra.<br></br>
 Poi l&apos;aria dietro di lui.<br></br>
@@ -99,10 +99,80 @@ E non dovevo salvare più nessuno.<br></br>
 Matteo Regge, 23
         </ParagraphE>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
-            Summer 2022
+            September &apos;22
           </Heading>
         <Paragraph>
-        Ascoltami, tu e me e noi e gli altri<br></br>
+Sotto il sole torrido di un estate di anni fa, scalfita dalla brezza e dallo sfrusciare dei miei vestiti leggeri contro gli arbusti.<br></br>
+Una qualche tranquillità naturale, un piccolo squarcio surreale di frutti e insetti colorati a inseguirsi nelle fessure della boscaglia.<br></br>
+Si fa presto con la testa che vaga a ritrovarsi persi in una foresta giapponese, indossare un berretto colorato e inseguire i ciottoli tondoli e levigati di un sentiero severo.<br></br>
+Si fa presto a non voltarsi mai verso la città e inseguire una sottile pendenza verso l&apos;alto che sa di fuga e di aria pulita.<br></br>
+Una distesa orizzontale che si perde nel cielo e una leggera salita sotto i piedi.<br></br>
+Un percorso infinito verso l&apos;orizzonte sterminato che sale e sale.<br></br>
+In questi chilometri di paura sentire dolcemente il sapore dell&apos;aria più pura che inebria i polmoni.<br></br>
+Ricordi anche tu quel faro ?<br></br>
+Nella notte di tempesta e luce e tuono e lampo trovarsi a respirare l&apos;aria del mare e sentire l&apos;ebrezza salata e i polmoni liberi.<br></br>
+Forse anche allora era così.<br></br>
+Le nubi di sopra, le onde di vento nell&apos;erba e i passi silenziosi e innocui nella sacralità di un tempio e di una religione che osservo con curiosità e di cui imito qualcosa timidamente.<br></br>
+Poi quel destino sacro e imperscrutabile bussa alla porta di legno dolce e sussurra qualcosa.<br></br>
+Riaprire gli occhi dopo un sussulto e nelle urla messicane trovare una bambina che fugge e un incendio che sale.<br></br>
+Cerca la madre ma lei non è qui.<br></br>
+Diventa un uomo a cavallo che insegue il tramonto nei canyon di detriti e polvere.<br></br>
+Insegue la promessa del padre.<br></br>
+Trovarsi a occidente quando entrambi avranno finito. Solo lì poter giacere e riposare.<br></br>
+Nelle strette case delle vie di Tokyo si ricorda cosa vuol dire invecchiare.<br></br>
+Ce lo si dice piano tra adulti prima della cena.<br></br>
+Per i bambini c&apos;è il silenzio della casa dei nonni, le buonanotti e la mano la mattina prima della scuola.<br></br>
+Ogni metro di orizzonte che guadagno è anche loro ?<br></br>
+<br></br>
+Me lo hai detto tu che la campana suona anche per me. <br></br>
+Quando poi ti sei trasferito a Roma per sempre ho sperato che la campana suonasse per il mondo intero.<br></br>
+Che il rame e lo stagno gridassero insieme.<br></br>
+<br></br>
+Una scusa in meno per proseguire.<br></br>
+Per fare un altro passo.<br></br>
+Lo ricorda anche il Monaco della grotta.<br></br>
+Esce dalla penombra e si siede di fronte a me.<br></br>
+Si dice da queste parti che non abbia mai parlato con nessuno.<br></br>
+Nato e vissuto in questa cava.<br></br>
+Ha conosciuto solo la fame e la sete.<br></br>
+Si è cibato di radici e ha bevuto l&apos;acqua del torrente orizzontale.<br></br>
+Tutti i monaci sanno che il silenzio è l&apos;unica precondizione per dire qualcosa che non sia sfuggevole come il petalo del pesco.<br></br>
+Il monaco sa di dover morire.<br></br>
+Sceglie di farlo seduto con una posa diritta e dignitosa. Così gli è stato insegnato dalla gru e dal bamboo.<br></br>
+Non dice nulla.<br></br>
+Si accascia dolcemente.<br></br>
+L&apos;alba che sorge porta via la sua polvere e lo porta dove ognuno, come lui, abita e parla il silenzio.<br></br>
+<br></br>
+In quella mancanza di parole immaginarti, pensare a quelle confuse negli ultimi momenti.<br></br>
+Poi ancora i rantoli, la tosse e il dolore.<br></br>
+Le grida di impotenza e l&apos;umiltà infinita nel tornare bambino.<br></br>
+Solo nostra madre può toglierci dal silenzio.<br></br>
+Ed è nostra madre a riportarci.<br></br>
+<br></br>
+Se siano mille o milioni i passi che ho percorso è difficile da dire.<br></br>
+Eppure ora sono gli ultimi<br></br>
+<br></br>
+Stai sempre nelle vite degli altri mi avevi detto.<br></br>
+<br></br>
+Io ora sono qui.<br></br>
+Sono salito per chilometri e chilometri in questa pianura verticale.<br></br>
+Dove si cammina e cammina e senza accorgersi si scala qualcosa.<br></br>
+La sommità di questa montagna piatta è mia ora.<br></br>
+Ma anche tu sei qui.<br></br>
+Ti siedi accanto a me nella casa di campagna della nonna.<br></br>
+Passi le dita nei miei capelli arricciandoli e lisciandoli.<br></br>
+Non era in nessun racconto o film.<br></br>
+Nessuna storia umana o tragedia.<br></br>
+Era qui con te a mangiare i mirtilli.<br></br>
+        </Paragraph>
+        <ParagraphE>
+Matteo Regge, montagna piatta
+        </ParagraphE>
+        <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
+            August &apos;22
+          </Heading>
+        <Paragraph>
+Ascoltami, tu e me e noi e gli altri<br></br>
 non lasceremo mai le fronde del salice<br></br>
 che sguscia via dal Leviatano<br></br>
 e dal suo piccolo specchio<br></br>
@@ -147,7 +217,7 @@ lo sanno bene i piccoli animali<br></br>
 che ivi abitano<br></br>
 <br></br>
 L&apos;acqua invece<br></br>
-innaturale com&apos;e<br></br>
+innaturale com&apos;è<br></br>
 ogni tanto quando si accumula<br></br>
 sceglie di rompere e fuggire<br></br>
 verso il vento e il mare<br></br>
@@ -156,10 +226,10 @@ verso il vento e il mare<br></br>
 Matteo Regge, Ryu
         </ParagraphE>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
-            Spring 2022
+            March &apos;22
           </Heading>
         <Paragraph>
-        La polvere della terra<br></br>
+La polvere della terra<br></br>
 è diventata il primo uomo<br></br>
 il primo uomo<br></br>
 nella polvere <br></br>
@@ -196,6 +266,67 @@ e ogni altro uomo<br></br>
         </Paragraph>
         <ParagraphE>
 Matteo Regge, Laurea
+        </ParagraphE>
+        <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
+            November &apos;22
+          </Heading>
+        <Paragraph>
+Il gabbiano bianco sosta per un attimo dal grande volo, gli occhi grigi di gelo, quelli di ogni gabbiano che abbia mai fissato un uomo solo.<br></br>
+Il lungomare -allora rubato all&apos;alba- quello delle piccole conversazioni e delle tante speranze e poi dei silenzi e delle intimità rubate.<br></br>
+Surreale allora, è una sfida oggi, nel lunedì più freddo di novembre che sa di maledizione anche baciato dal mare e cullato dalle radio più vecchie del grande gigante Vesuvio.<br></br>
+Siamo soli io e lui a scambiarci racconti di mare e di terra.<br></br>
+Precipitati nella solitudine di un molo abbandonato.<br></br>
+Intuisce che non ho nulla.<br></br>
+Che condivido con lui un pezzo di pane che resta un ricordo di ciò che casa può essere.<br></br>
+Solo rimasuglio nella grande fuga del anno corrente.<br></br>
+Quella dalla mia fredda cittadina.<br></br>
+Quella dalle correnti che ascendono via dagli alberi degli uomini ai venti dei fratelli uccelli di mare.<br></br>
+L&apos;occhio di questo padre per suo figlio e la grida inscenate sono lo spettacolo che si spiega d&apos;innanzi al mare di novembre.<br></br>
+Mal comunicare e infervorarsi.<br></br>
+<br></br>
+Perché vuoi tornare a momenti perduti ?<br></br>
+E poterti dire che è la paura che sia tutto qui, che questa felicità sia tutta la felicità.<br></br>
+Che il suo sorriso sia ogni sorriso.<br></br>
+Che non esista altro per sempre.<br></br>
+Che la Grande Rivelazione è un momento e nessun presagio mai.<br></br>
+Che le coperte sgualcite da mattina estiva affettuosa-veli di marmo-, i vestiti sparpagliati -macchie impressioniste- sono il quadro riposto in un piccolo mobile in soffitto vicino alle tubature, erose dal sangue di casa.<br></br>
+<br></br>
+E diventa poi facile ritrovarsi in un vicolo in salita, lucido di acqua piovana, ficcarsi le mani in tasca e camminare verso questi occhi di uomini attorno a me.<br></br>
+Si cerca qualcosa da svelare nel loro vivere metodico, la città appesa sulle guance le slancia verso terra, sono qui da millenni e trovarli solo ora è una scoperta monumentale.<br></br>
+La paura di contaminare una realtà contenuta in se stessa, un mondo nel mondo, una raccolta di miti e narrazione e palesare la mia estraneità.<br></br>
+L&apos;antidoto è da trangugiare velocemente, stare zitti e farsi cinepresa silente.<br></br>
+E tenere la mano ferma.<br></br>
+<br></br>
+Questo il nostro gioco.<br></br>
+Ricordarsi delle realtà silenziose che la mattina facevano capolino da dietro la porta d&apos;ingresso.<br></br>
+Fermi.<br></br>
+Giocare a immaginarci marinaio e cameriera che hanno solo un ora prima di ripartire.<br></br>
+E poi ricordarci di avere mille altre vite.<br></br>
+E allora spenderle a guardare tutto ciò che di umano resta fuori dal camminarti poco dietro a contemplare le possibilità.<br></br>
+<br></br>
+Resta il Pensiero Angoscioso, spigola silenziosa che sguscia tra gli scogli.<br></br>
+Non avere idea di cosa farne.<br></br>
+L&apos;occhio fisso gelatinoso.<br></br>
+Non dolore ne speranza, ma una gentile reminiscenza che nel crepuscolo dietro al Grande Colle coglie un momento debole.<br></br>
+Amarti ?<br></br>
+E il resto del mondo ?
+Raccontava un poeta forse persiano che da qualche parte nelle Cicladi, viveva una razza curiosa di esseri umani.<br></br>
+Erano soliti dimenticarsi ogni cosa al calar del giorno.<br></br>
+Ogni uomo e ogni donna all&apos;alba, sollevato dal vento mediterraneo, si faceva consapevole.<br></br>
+Sceglieva ogni mattino la stessa occupazione e al calar del sole si rifugiava nella solita dimora innamoratosi della stessa persona.<br></br>
+Dice quello stesso poeta che pochi di loro in un momento di follia, o forse di illuminazione, abbandonarono quelle isole.<br></br>
+Insediano da allora queste nostre terre mediterranee.<br></br>
+Calo la mano, squame-gioelli d&apos;argento, scelgo e scelgo di essere qui.<br></br>
+<br></br>
+Ancora niente Bibbì ?<br></br>
+Non è colpa mia Maestra Sara, sapevo tutto fino a stamattina. Sono nato così.<br></br>
+Devo ricrearmi tutto daccapo ogni volta.<br></br>
+Scegliere oggi è uccidere ogni domani.<br></br>
+Non dire così Bibbì.<br></br>
+L&apos;amore di una maestra è per sempre.<br></br>
+        </Paragraph>
+        <ParagraphE>
+Matteo Regge, Napoli
         </ParagraphE>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
             08.08.22
