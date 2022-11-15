@@ -25,11 +25,11 @@ const Posts = () => (
             10.24.22
           </Heading>
         <Paragraph>
-        L'altro giorno ho visto mio nonno.
+        L&apos;'altro giorno ho visto mio nonno.
 Prima lui.
 Poi la sua ombra.
-Poi l'aria dietro di lui.
-Poi è sparito nella calca e non l'ho più visto.
+Poi l&apos;'aria dietro di lui.
+Poi è sparito nella calca e non l&apos;'ho più visto.
 Il frastuono della chiesa la domenica mi ha riportato al presente.
 Ci sono tutte le famiglie del mondo.
 Qui ci venivo da bambino e forse allora anche la mia famiglia era qui.
@@ -42,10 +42,10 @@ Ogni famiglia è la mia.
 Ora si torna a casa.
 In quella casa ci sono tutti quanti.
 Lo zio argentino che non ho mai visto ha bussato alla nostra porta.
-Mi ha detto che anche da lui c'è sempre spazio. Che Buenos Aires è a un soffio di vento. Che a Plaza de la Constitucion non si è mai soli.
+Mi ha detto che anche da lui c&apos;'è sempre spazio. Che Buenos Aires è a un soffio di vento. Che a Plaza de la Constitucion non si è mai soli.
 Ci sono piani infiniti.
 Al tredicesimo ci sono tutti gli zii.
-E poi sale e sale fino all'ultimo uomo del mondo.
+E poi sale e sale fino all&apos;'ultimo uomo del mondo.
 Siamo entrambi uomini e questo ci basta per mangiare insieme ogni tanto.
 Succede che qualcuno si aggiunga e la casa sale e cresce.
 E tutti allungano i tavoli.
@@ -62,7 +62,7 @@ Si allarga e restringe pulsante.
 Ora è grande quanto un gatto.
 Allora mi rimpicciolisco anche io e divento uno dei mille gatti di questa piazza.
 Entro in un piccolo santuario in legno.
-C'è solo una piccolo rialzo con migliaia di cuccioli che dormono.
+C&apos;'è solo una piccolo rialzo con migliaia di cuccioli che dormono.
 Sopra di loro un busto in legno intarsiato della Madonna che veglia sul loro sonno.
 Gira lentamente lo sguardo su di me.
 
@@ -70,9 +70,9 @@ Bisogna essere disposti a lasciar entrare tutti i pericoli del mondo.
 Pregare che il mondo sia clemente con ciò che gli lasciamo.
 Più clemente che con noi.
 Che la riva sia lieve a chiunque vi cammina sotto la madre Luna.
-Che l'acqua sottile levighi e smussi i tuoi piedi.
+Che l&apos;'acqua sottile levighi e smussi i tuoi piedi.
 Che i massi facciano lo stesso mentre cammini dolcemente.
-Che il maremoto e l'acquazzone ti colpiscano quando sarai saldo e con l'occhio fisso verso il filo d'orizzonte del mare.
+Che il maremoto e l&apos;'acquazzone ti colpiscano quando sarai saldo e con l&apos;'occhio fisso verso il filo d&apos;'orizzonte del mare.
 
 Ora questi gatti sono pronti per uscire dalle loro piccole porte di legno.
 Torneranno per piangere ridere e rendere grazie.
@@ -84,11 +84,11 @@ Sparisce nelle foglie portate dal vento.
 
 Ho portato il pane su e giù da Montesacro.
 Tornavo la domenica mattina in un sole simile a quello che si intravede qui ora.
-Nel torpore del mattino con poche ore di sonno celebravo l'aiuto e la felicità del mondo.
+Nel torpore del mattino con poche ore di sonno celebravo l&apos;'aiuto e la felicità del mondo.
 Poi tornavo sotto le lenzuola leggere e dormivo fino a sera.
-Mi svegliavo silenzioso e credevo di essere l'unico sulla terra.
+Mi svegliavo silenzioso e credevo di essere l&apos;'unico sulla terra.
 Si increspava la fronte e pensavo alle fronde degli alberi fuori dalla finestra, al vento caldo e al futuro di qualcuno.
-Di qualche faccia con un nome e un cognome come tanti altri che sorrideva ai figli la sera tornando un po' più tardi del solito.
+Di qualche faccia con un nome e un cognome come tanti altri che sorrideva ai figli la sera tornando un po&apos;' più tardi del solito.
 Poi mi liberavo anche di quello, anche degli alberi leggeri e dal vento serale.
 
 Per pochi secondi vedevo la mia faccia e sentivo il mio nome e cognome.
