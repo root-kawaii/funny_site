@@ -146,7 +146,7 @@ che le dighe naturali resistano per sempre<br></br>
 lo sanno bene i piccoli animali<br></br>
 che ivi abitano<br></br>
 <br></br>
-L'acqua invece<br></br>
+L&apos;acqua invece<br></br>
 innaturale com&apos;e<br></br>
 ogni tanto quando si accumula<br></br>
 sceglie di rompere e fuggire<br></br>
@@ -154,6 +154,48 @@ verso il vento e il mare<br></br>
         </Paragraph>
         <ParagraphE>
 Matteo Regge, Ryu
+        </ParagraphE>
+        <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
+            Spring 2022
+          </Heading>
+        <Paragraph>
+        La polvere della terra<br></br>
+è diventata il primo uomo<br></br>
+il primo uomo<br></br>
+nella polvere <br></br>
+ha generato ogni altro uomo<br></br>
+<br></br>
+Uno degli uomini<br></br>
+nello spazio infinito e uguale <br></br>
+fu Jorge Bruno Ramirez<br></br>
+che fu padre di una donna <br></br>
+che divenne mia madre <br></br>
+e questo lo rese mio nonno<br></br>
+<br></br>
+Chi nasce nella terra<br></br>
+cresce nella terra<br></br>
+e vive per la terra <br></br>
+ha, forse, come unico sogno<br></br>
+quello di vedere la sua progenie<br></br>
+impugnare la terra <br></br>
+e fuggire nei palazzi <br></br>
+di sabbia e fuoco<br></br>
+<br></br>
+Ho passato tutta la vita a fuggire la terra<br></br>
+Ora che sto per impugnare una pergamena <br></br>
+La terra è tornata a prendersi mio nonno<br></br>
+e il suo sogno<br></br>
+<br></br>
+Saremo polvere anche io <br></br>
+e il mio pezzetto di carta<br></br>
+Torneremo allo spazio infinito e uguale<br></br>
+Dove giacciono tutti i pezzi di carta <br></br>
+Io<br></br>
+mio nonno <br></br>
+e ogni altro uomo<br></br>
+        </Paragraph>
+        <ParagraphE>
+Matteo Regge, Laurea
         </ParagraphE>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
             08.08.22
