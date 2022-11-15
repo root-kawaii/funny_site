@@ -166,7 +166,7 @@ Nessuna storia umana o tragedia.<br></br>
 Era qui con te a mangiare i mirtilli.<br></br>
         </Paragraph>
         <ParagraphE>
-Matteo Regge, montagna piatta
+Matteo Regge, Montagna piatta
         </ParagraphE>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
             August &apos;22
@@ -464,7 +464,7 @@ nel tempo e nello spazio<br></br>
 e non sono<br></br>
         </Paragraph>
         <ParagraphE>
-Matteo Regge, una felpa
+Matteo Regge, Il cervo
         </ParagraphE>
         </Section>
         </SimpleGrid>
