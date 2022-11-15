@@ -423,45 +423,45 @@ Jorge Luis Borges, Shinto
         Late &apos;20
           </Heading>
         <Paragraph>
-Fu nella fredda periferia canadese che tu
-mi chiedesti di regalarti qualcosa di mio
-non avevo nulla con me e ti diedi
-la felpa che indossavo
-
-me ne andai senza dire una parola
-avvolto dal gelo e dal pensiero che non era a te
-che volevo lasciarla
-
-e come le nostre chiacchere da pochi secondi
-sparirono nell'inverno tutti i propositi
-lasciarono spazio ai bisogni 
-e alle piccole solitudini invernali
-
-e io che zoppo menavo le vie innevate per
-inseguire un'idea di contatto
-o momento di tenerezza
-immaginato persino
-
-fuggivo da te
-dal vecchio
-dal peso
-
-mi ritrovai spogliato nella neve
-un cervo con occhi da uomo
-mi disse che il mio tempo finiva
-
-anni dopo mi scrivesti qualcosa di dolce
-e aggiungesti che avevi provato ad ucciderti
-ma che tra i dolori
-riservavi un ricordo affettuoso di noi
-e di quel regalo quando ci conoscemmo
-
-quello stesso regalo
-che ora intravedo nel soppalco
-così lontano da te
-nel tempo e nello spazio
-è il monito di ciò che vorrei
-e non sono
+Fu nella fredda periferia canadese che tu<br></br>
+mi chiedesti di regalarti qualcosa di mio<br></br>
+non avevo nulla con me e ti diedi<br></br>
+la felpa che indossavo<br></br>
+<br></br>
+me ne andai senza dire una parola<br></br>
+avvolto dal gelo e dal pensiero che non era a te<br></br>
+che volevo lasciarla<br></br>
+<br></br>
+e come le nostre chiacchere da pochi secondi<br></br>
+sparirono nell&apos;inverno tutti i propositi<br></br>
+lasciarono spazio ai bisogni <br></br>
+e alle piccole solitudini invernali<br></br>
+<br></br>
+e io che zoppo menavo le vie innevate per<br></br>
+inseguire un&apos;idea di contatto<br></br>
+o momento di tenerezza<br></br>
+immaginato persino<br></br>
+<br></br>
+fuggivo da te<br></br>
+dal vecchio<br></br>
+dal peso<br></br>
+<br></br>
+mi ritrovai spogliato nella neve<br></br>
+un cervo con occhi da uomo<br></br>
+mi disse che il mio tempo finiva<br></br>
+<br></br>
+anni dopo mi scrivesti qualcosa di dolce<br></br>
+e aggiungesti che avevi provato ad ucciderti<br></br>
+ma che tra i dolori<br></br>
+riservavi un ricordo affettuoso di noi<br></br>
+e di quel regalo quando ci conoscemmo<br></br>
+<br></br>
+quello stesso regalo<br></br>
+che ora intravedo nel soppalco<br></br>
+così lontano da te<br></br>
+nel tempo e nello spazio<br></br>
+è il monito di ciò che vorrei<br></br>
+e non sono<br></br>
         </Paragraph>
         <ParagraphE>
 Matteo Regge, una felpa
