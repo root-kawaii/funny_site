@@ -138,14 +138,14 @@ Currently working on {''}
         <BioYear>
           Reading Book:
         </BioYear>
-        <Link href="https://en.wikipedia.org/wiki/Kafka_on_the_Shore">Kafka on the shore </Link>
-          by Haruki Murakami
+        <Link href="https://en.wikipedia.org/wiki/American_Pastoral">American Pastoral </Link>
+          by Philip Roth
         </BioSection>
         <BioSection>
         <BioYear>
         Reading Manga:
         </BioYear>
-        <Link href="https://en.wikipedia.org/wiki/Vagabond_(manga)">Vagabond </Link>
+        <Link href="https://en.wikipedia.org/wiki/Real_(manga)">Real </Link>
           by Takehiko Inoue
         </BioSection>
         <BioSection>
