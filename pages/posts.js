@@ -268,7 +268,7 @@ e ogni altro uomo<br></br>
 Matteo Regge, Laurea
         </ParagraphE>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
-            November &apos;22
+            March &apos;22
           </Heading>
         <Paragraph>
 Il gabbiano bianco sosta per un attimo dal grande volo, gli occhi grigi di gelo, quelli di ogni gabbiano che abbia mai fissato un uomo solo.<br></br>
@@ -329,32 +329,6 @@ L&apos;amore di una maestra è per sempre.<br></br>
 Matteo Regge, Napoli
         </ParagraphE>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
-            08.08.22
-          </Heading>
-        <Paragraph>
-Written a small telegram bot to learn a bit about telegram-python APIs <br></br>
-You can use it too ! The username is botter_s_bot, try the /news command followed <br></br>
-by the keyword you want to look up.<br></br>
-You can find it on my repo as well.
-Cheers @_@ !
-        </Paragraph>
-        <ParagraphE>
-root-kawaii, telegram-bot
-        </ParagraphE>
-        <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
-            06.28.22
-          </Heading>
-        <Paragraph>
-I have indeed started using Arch Linux.<br></br>
-Now I am comparing Gnome to Sway tile manager.<br></br>
-While Sway is obviously way less taxing in terms of memory<br></br>
-while also being faster in terms of shortcuts and everything<br></br>
-Gnome is much more functional and gives way less problems in terms of compatibility.<br></br>
-        </Paragraph>
-        <ParagraphE>
-root-kawaii, Arch
-        </ParagraphE>
-        <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
             5.2.22
           </Heading>
         <Paragraph>
@@ -412,6 +386,85 @@ out of the flowers
         </Paragraph>
         <ParagraphE>
         Matsuo Bashō 
+        </ParagraphE>
+        <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
+            5.2.22
+          </Heading>
+        <Paragraph>
+        When sorrow lays us low<br></br>
+for a second we are saved<br></br>
+by humble windfalls<br></br>
+of the mindfulness or memory:<br></br>
+the taste of a fruit, the taste of water,<br></br>
+that face given back to us by a dream,<br></br>
+the first jasmine of November,<br></br>
+the endless yearning of the compass,<br></br>
+a book we thought was lost,<br></br>
+the throb of a hexameter,<br></br>
+the slight key that opens a house to us,<br></br>
+the smell of a library, or of sandalwood,<br></br>
+the former name of a street,<br></br>
+the colors of a map,<br></br>
+an unforeseen etymology,<br></br>
+the smoothness of a filed fingernail,<br></br>
+the date we were looking for,<br></br>
+the twelve dark bell-strokes, tolling as we count,<br></br>
+a sudden physical pain.<br></br><br></br>
+
+Eight million Shinto deities<br></br>
+travel secretly throughout the earth.<br></br>
+Those modest gods touch us--<br></br>
+touch us and move on.<br></br>
+        </Paragraph>
+        <ParagraphE>
+Jorge Luis Borges, Shinto
+        </ParagraphE>
+        <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
+        Late &apos;20
+          </Heading>
+        <Paragraph>
+Fu nella fredda periferia canadese che tu
+mi chiedesti di regalarti qualcosa di mio
+non avevo nulla con me e ti diedi
+la felpa che indossavo
+
+me ne andai senza dire una parola
+avvolto dal gelo e dal pensiero che non era a te
+che volevo lasciarla
+
+e come le nostre chiacchere da pochi secondi
+sparirono nell'inverno tutti i propositi
+lasciarono spazio ai bisogni 
+e alle piccole solitudini invernali
+
+e io che zoppo menavo le vie innevate per
+inseguire un'idea di contatto
+o momento di tenerezza
+immaginato persino
+
+fuggivo da te
+dal vecchio
+dal peso
+
+mi ritrovai spogliato nella neve
+un cervo con occhi da uomo
+mi disse che il mio tempo finiva
+
+anni dopo mi scrivesti qualcosa di dolce
+e aggiungesti che avevi provato ad ucciderti
+ma che tra i dolori
+riservavi un ricordo affettuoso di noi
+e di quel regalo quando ci conoscemmo
+
+quello stesso regalo
+che ora intravedo nel soppalco
+così lontano da te
+nel tempo e nello spazio
+è il monito di ciò che vorrei
+e non sono
+        </Paragraph>
+        <ParagraphE>
+Matteo Regge, una felpa
         </ParagraphE>
         </Section>
         </SimpleGrid>
