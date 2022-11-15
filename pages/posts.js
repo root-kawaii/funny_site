@@ -25,7 +25,7 @@ const Posts = () => (
             10.24.22
           </Heading>
         <Paragraph>
-        L&apos;'altro giorno ho visto mio nonno.
+        L&apos;altro giorno ho visto mio nonno.
 Prima lui.
 Poi la sua ombra.
 Poi l&apos;aria dietro di lui.
