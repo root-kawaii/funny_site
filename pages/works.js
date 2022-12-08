@@ -11,6 +11,7 @@ import n04 from '../components/images/04.png'
 import n05 from '../components/images/05.png'
 import n06 from '../components/images/06.png'
 import qq from '../components/images/7.png'
+import zz from '../components/images/8.png'
 
 const Works = () => {
   return (
@@ -20,6 +21,18 @@ const Works = () => {
         Works
       </Heading>
       <SimpleGrid columns={[1, 1, 2]} gap={30}>
+      <Section>
+          <WorkGridItem id="https://github.com/root-kawaii/comutti2" title="comutti" thumbnail={qq}>
+            Interactive story-telling for kids with neurodevelopmental disorders
+          </WorkGridItem>
+        </Section>
+        <Section>
+          <WorkGridItem id="https://github.com/root-kawaii/arrow" title="comutti" thumbnail={zz}>
+            Game made for the course of Videogame Design @ Politecnico di Milano.
+            Currently in development.
+            Try the current release at https://polimi-game-collective.itch.io/arrow.
+          </WorkGridItem>
+        </Section>
       <Section>
       <WorkGridItem id="https://github.com/root-kawaii/Software-Engineering2021" title="Maestri del rinascimento" thumbnail={thumbnailS}>
             Developed a computer playable implementation of the board game Maestri del rinascimento as a project for my Thesis.
@@ -62,13 +75,6 @@ const Works = () => {
         </Section>
         <Section>
           <WorkGridItem id="https://github.com/root-kawaii/api_project2021" title="API_Project" thumbnail={n06}>
-            Optimal code for the ranking of given Homogeneous Graphs<br></br>
-            Project for my Thesis<br></br>
-            Valued 30/30
-          </WorkGridItem>
-        </Section>
-        <Section>
-          <WorkGridItem id="https://github.com/root-kawaii/comutti2" title="COMUTTI2" thumbnail={qq}>
             Optimal code for the ranking of given Homogeneous Graphs<br></br>
             Project for my Thesis<br></br>
             Valued 30/30
