@@ -22,15 +22,15 @@ const Works = () => {
       </Heading>
       <SimpleGrid columns={[1, 1, 2]} gap={30}>
       <Section>
-          <WorkGridItem id="https://github.com/root-kawaii/comutti2" title="comutti" thumbnail={qq}>
-            Interactive story-telling for kids with neurodevelopmental disorders
+      <WorkGridItem id="https://github.com/root-kawaii/arrow" title="Arrow" thumbnail={zz}>
+            Game made for the course of Videogame Design @ Politecnico di Milano.<br></br>
+            Currently in development.<br></br>
+            Try the current release at https://polimi-game-collective.itch.io/arrow.
           </WorkGridItem>
         </Section>
         <Section>
-          <WorkGridItem id="https://github.com/root-kawaii/arrow" title="comutti" thumbnail={zz}>
-            Game made for the course of Videogame Design @ Politecnico di Milano.
-            Currently in development.
-            Try the current release at https://polimi-game-collective.itch.io/arrow.
+        <WorkGridItem id="https://github.com/root-kawaii/comutti2" title="Comutti II" thumbnail={qq}>
+            Interactive story-telling for kids with neurodevelopmental disorders
           </WorkGridItem>
         </Section>
       <Section>
