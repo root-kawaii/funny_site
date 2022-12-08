@@ -10,6 +10,7 @@ import n03 from '../components/images/03.png'
 import n04 from '../components/images/04.png'
 import n05 from '../components/images/05.png'
 import n06 from '../components/images/06.png'
+import qq from '../components/images/7.png'
 
 const Works = () => {
   return (
@@ -61,6 +62,13 @@ const Works = () => {
         </Section>
         <Section>
           <WorkGridItem id="https://github.com/root-kawaii/api_project2021" title="API_Project" thumbnail={n06}>
+            Optimal code for the ranking of given Homogeneous Graphs<br></br>
+            Project for my Thesis<br></br>
+            Valued 30/30
+          </WorkGridItem>
+        </Section>
+        <Section>
+          <WorkGridItem id="https://github.com/root-kawaii/comutti2" title="COMUTTI2" thumbnail={qq}>
             Optimal code for the ranking of given Homogeneous Graphs<br></br>
             Project for my Thesis<br></br>
             Valued 30/30
