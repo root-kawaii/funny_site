@@ -25,7 +25,10 @@ const Works = () => {
       <WorkGridItem id="https://github.com/root-kawaii/arrow" title="Arrow" thumbnail={zz}>
             Game made for the course of Videogame Design @ Politecnico di Milano.<br></br>
             Currently in development.<br></br>
-            Try the current release at https://polimi-game-collective.itch.io/arrow.
+            Try the current release {''}
+        <NextLink href="https://polimi-game-collective.itch.io/arrow.">
+        <Link href="https://polimi-game-collective.itch.io/arrow.">here</Link>
+        </NextLink>
           </WorkGridItem>
         </Section>
         <Section>
