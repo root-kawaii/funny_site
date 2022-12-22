@@ -281,7 +281,7 @@ Che condivido con lui un pezzo di pane che resta un ricordo di ciò che casa pu�
 Solo rimasuglio nella grande fuga del anno corrente.<br></br>
 Quella dalla mia fredda cittadina.<br></br>
 Quella dalle correnti che ascendono via dagli alberi degli uomini ai venti dei fratelli uccelli di mare.<br></br>
-L&apos;occhio di questo padre per suo figlio e la grida inscenate sono lo spettacolo che si spiega d&apos;innanzi al mare di novembre.<br></br>
+L&apos;occhio di questo padre per suo figlio e la grida inscenate sono lo spettacolo che si spiega dinnanzi al mare di novembre.<br></br>
 Mal comunicare e infervorarsi.<br></br>
 <br></br>
 Perché vuoi tornare a momenti perduti ?<br></br>
@@ -327,38 +327,6 @@ L&apos;amore di una maestra è per sempre.<br></br>
         </Paragraph>
         <ParagraphE>
 Matteo Regge, Napoli
-        </ParagraphE>
-        <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
-            5.2.22
-          </Heading>
-        <Paragraph>
-        When sorrow lays us low<br></br>
-for a second we are saved<br></br>
-by humble windfalls<br></br>
-of the mindfulness or memory:<br></br>
-the taste of a fruit, the taste of water,<br></br>
-that face given back to us by a dream,<br></br>
-the first jasmine of November,<br></br>
-the endless yearning of the compass,<br></br>
-a book we thought was lost,<br></br>
-the throb of a hexameter,<br></br>
-the slight key that opens a house to us,<br></br>
-the smell of a library, or of sandalwood,<br></br>
-the former name of a street,<br></br>
-the colors of a map,<br></br>
-an unforeseen etymology,<br></br>
-the smoothness of a filed fingernail,<br></br>
-the date we were looking for,<br></br>
-the twelve dark bell-strokes, tolling as we count,<br></br>
-a sudden physical pain.<br></br><br></br>
-
-Eight million Shinto deities<br></br>
-travel secretly throughout the earth.<br></br>
-Those modest gods touch us--<br></br>
-touch us and move on.<br></br>
-        </Paragraph>
-        <ParagraphE>
-Jorge Luis Borges, Shinto
         </ParagraphE>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
             4.25.22
