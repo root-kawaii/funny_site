@@ -22,7 +22,7 @@ const Works = () => {
       </Heading>
       <SimpleGrid columns={[1, 1, 2]} gap={30}>
       <Section>
-      <WorkGridItem id="https://github.com/root-kawaii/arrow" title="Arrow" thumbnail={zz}>
+      <WorkGridItem id="https://polimi-game-collective.itch.io/arrow" title="Arrow" thumbnail={zz}>
             Game made for the course of Videogame Design @ Politecnico di Milano.<br></br>
             Currently in development.<br></br>
             Try the current release with the link at the end of the README.
