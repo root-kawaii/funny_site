@@ -22,6 +22,15 @@ const Posts = () => (
       <SimpleGrid columns={[1]} gap={12}>
         <Section>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
+            1.14.23
+          </Heading>
+        <Paragraph>
+        My philosophy, in essence, is the concept of man as a heroic being, with his own happiness as the moral purpose of his life, with productive achievement as his noblest activity, and reason as his only absolute.
+        </Paragraph>
+        <ParagraphE>
+Ayn Rand, Atlas Shrugged
+        </ParagraphE>
+        <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
             10.24.22
           </Heading>
         <Paragraph>
