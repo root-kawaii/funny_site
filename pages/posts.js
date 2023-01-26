@@ -28,7 +28,7 @@ const Posts = () => (
         Mono no aware (物の哀れ),the pathos of things, and also translated as an empathy toward things, or a sensitivity to ephemera, is a Japanese idiom for the awareness of impermanence (無常, mujō), or transience of things, and both a transient gentle sadness (or wistfulness) at their passing as well as a longer, deeper gentle sadness about this state being the reality of life.
         </Paragraph>
         <ParagraphE>
-mono no aware
+J.T., wikipedia
         </ParagraphE>
         <Heading as="h3" textDecoration={'underline'} fontSize={20} marginTop={5} marginBottom={2} textUnderlineOffset={6}>
             1.14.23
