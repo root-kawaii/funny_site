@@ -8,6 +8,7 @@ import { AnimatePresence } from 'framer-motion'
 const Website = ({ Component, pageProps, router }) => {
   return (
     <ChakraProvider theme={theme}>
+      <Analytics />
       <Fonts />
       <Layout router={router}>
         <AnimatePresence
