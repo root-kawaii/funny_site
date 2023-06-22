@@ -1,4 +1,4 @@
-
+import { Analytics } from '@vercel/analytics/react'
 import Layout from '../components/layouts/main'
 import { ChakraProvider } from '@chakra-ui/react'
 import theme from '../lib/theme'
@@ -8,9 +8,9 @@ import { AnimatePresence } from 'framer-motion'
 const Website = ({ Component, pageProps, router }) => {
   return (
     <ChakraProvider theme={theme}>
-      <Fonts/>
+      <Fonts />
       <Layout router={router}>
-      <AnimatePresence
+        <AnimatePresence
           exitBeforeEnter
           initial={true}
           onExitComplete={() => {
